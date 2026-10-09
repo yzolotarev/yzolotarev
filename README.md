@@ -11,6 +11,7 @@ I build with AI agents (Claude Code, Codex) and say so openly. The problem, the 
 - **[mindmap](https://github.com/yzolotarev/mindmap)** - explain things to an AI with arrows, not paragraphs; a missing arrow shows what you don't understand yet
 - **[ai-study-engine](https://github.com/yzolotarev/ai-study-engine)** - a learning system where AI help is never counted as proof that you learned something
 - **[zfg](https://github.com/yzolotarev/zfg)** - quick Focus/Later task capture for Linux: a launcher pie on Super+Z and a bar widget for the Ryoku desktop, installed with one command
+- **[stream-webcam-detection](https://github.com/yzolotarev/stream-webcam-detection)** - finds the streamer's webcam in a stream recording by looking for faces that are live and stay in place; 58 of 60 labelled moments correct, 0 wrong
 - **[site-recon](https://github.com/yzolotarev/site-recon)** - record a website as you browse, replay it offline to debug automation safely
 
 Methodology behind the learning tools: [Justin Sung](https://www.youtube.com/@JustinSung); behind zfg: Alexander Votyakov. Open to internships and junior roles.
