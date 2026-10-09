@@ -1,3 +1,5 @@
+![Yaroslav Zolotarev - Building tools for thinking.](assets/banner.jpg)
+
 ### Hi, I'm Yaroslav.
 
 Economics & Business Analytics student in Almaty, Kazakhstan.
